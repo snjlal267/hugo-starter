@@ -1,0 +1,6 @@
+domains:
+- hugo-starter-snjlal267.wasmer.app
+kind: wasmer.io/App.v0
+name: olapartysg2-hugo-starter
+owner: olapartysg2
+package: .
